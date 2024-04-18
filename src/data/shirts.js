@@ -10,7 +10,7 @@ const shirts = [
     { id: 9, name: 'Camisa com Botão', price: 29.99, size: 'M', gender: 'Masculino', color: 'Laranja', image: 'camisa_botao_masculina_laranja.jpg' },
     { id: 10, name: 'Camisa com Botão', price: 29.99, size: 'P', gender: 'Masculino', color: 'Preto', image: 'camisa_botao_masculina_preto.jpg' },
     { id: 11, name: 'Camisa com Botão', price: 29.99, size: 'P', gender: 'Masculino', color: 'Verde', image: 'camisa_botao_masculina_verde.jpg' },
-    { id: 12, name: 'Camisa Santos', price: 29.99, size: 'P', gender: 'Feminino', color: 'Branco', image: 'camisa_feminina_santos.jpg' },
+    { id: 12, name: 'Camisa Santos', price: 29.99, size: 'P', gender: 'Feminino', color: 'Rosa', image: 'camisa_feminina_santos.jpg' },
     { id: 13, name: 'Camisa Santos', price: 29.99, size: 'G', gender: 'Feminino', color: 'Branco', image: 'camisa_masculina_santos.jpg' },
     { id: 14, name: 'Camisa Palmeiras', price: 29.99, size: 'G', gender: 'Masculino', color: 'Verde', image: 'camisa_masculina_palmeiras.jpg' },
     { id: 15, name: 'Camisa Santos Infantil', price: 24.99, size: 'Infantil', gender: 'Masculino', color: 'Branco', image: 'camisa_masculina_santos_infantil.jpg' },

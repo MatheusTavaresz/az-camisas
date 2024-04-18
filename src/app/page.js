@@ -1,5 +1,5 @@
 import React from 'react';
-import Catalog from '@/components/Catalog';
+import Catalog from '@/components/client/Catalog';
 import shirtsData from '@/data/shirts'
 
 const Home = () => {
