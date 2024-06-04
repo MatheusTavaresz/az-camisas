@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 #### Acessar a aplicação no navegador:
-http://localhost:3000
+[http://localhost:3000](https://az-camisas.vercel.app)
 ## Funcionalidades
 - Lista de Camisetas: Exibe uma lista de camisetas com informações básicas, como nome, imagem, preço e disponibilidade de tamanhos e cores.
 - Filtros de Busca: Permite aos usuários filtrar os produtos por nome, preço, tamanho e cor para encontrar facilmente o que estão procurando.
